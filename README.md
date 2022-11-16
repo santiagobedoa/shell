@@ -5,6 +5,8 @@
 
 Here is the codebase for the project/tutorial I did on how to create a shell using the C programming language. I leave the link to my publication on Medium in case you want to follow the project step by step.
 
+https://medium.com/@santiagobedoa/coding-a-shell-using-c-1ea939f10e7e
+
 ## Files
 
 | Name | Description |
@@ -93,7 +95,6 @@ Non-interactive mode: ```echo "/bin/ls" | ./hsh```
 hsh             own_cd.c       own_help.c   shell.h              split_line.c
 main.c          own_env.c      read_line.c  shell_interactive.c
 ```
-## Author
 
 <p>&nbsp</p>
 
