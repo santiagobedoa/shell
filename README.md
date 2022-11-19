@@ -3,7 +3,7 @@
 
 ## Description
 
-Here is the codebase for the project/tutorial I did on how to create a shell using the C programming language. I leave the link to my publication on Medium in case you want to follow the project step by step.
+Here is the base code for the project/tutorial that I made on how to create a shell using the C programming language. I invite you to follow the link to carry out the project step by step and improve your knowledge of C.
 
 https://medium.com/@santiagobedoa/coding-a-shell-using-c-1ea939f10e7e
 
